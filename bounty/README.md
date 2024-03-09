@@ -1,4 +1,6 @@
-# Bounty Hacker Project README 🚀
+# Bounty Hacker 🚀
+
+![BountyHacker](bount.jpeg)
 
 ## Overview
 

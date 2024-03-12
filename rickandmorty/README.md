@@ -5,7 +5,6 @@
 
 Join Rick in this thrilling challenge where you'll navigate a web server to find three secret ingredients. These are essential for Rick to concoct his potion and revert back from his pickle form.
 
-
 ---
 
 ### 🕵️‍♂️ Exploration Phase

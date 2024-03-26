@@ -74,6 +74,6 @@ set LHOST your_local_IP
 exploit
 ```
 
-## Conclusion and Ethical Consideration
-
-This README outlines the steps and methodologies used in conducting a security assessment against a WordPress site. It's crucial to highlight that all activities described here should only be performed with explicit authorization and within the scope of an ethical hacking or penetration testing engagement. Unauthorized access to computer systems is illegal and unethical.
+-------------------------------------------
+# To be continued...
+-------------------------------------------

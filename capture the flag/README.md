@@ -1,7 +1,3 @@
-Your README looks well-structured overall, with clear instructions for each task. Here are some grammatical corrections and explanations for clarity:
-
----
-
 # c4ptur3-th3-fl4g 🚀
 
 ![Capture Flag](capture-the-flag.png)
